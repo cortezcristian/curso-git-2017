@@ -1,2 +1,0 @@
-## Release changes
-- Se arreglo bug en Proveedores
