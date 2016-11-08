@@ -2,14 +2,14 @@
 
 ```
 1. Clase 1
-1.1. Introducción a Git
+1.1. Introducción a Git 
 1.2. La historia detrás de git (Linus Torvalds)
-1.3. Comparativas entre Git y otros sistemas de versionado como SVN.
+1.3. Comparativas entre Git y otros sistemas de versionado SVN
 1.4. Beneficios de usar git desde la terminal
 1.5. Comandos básicos
 
 
-2. Clase 2
+2. Clase 2 
 2.1. Configurando remotos
 2.2. Buenas prácticas para la creación de ramas (branches)
 2.3. Integrando cambios (merges)
@@ -18,9 +18,9 @@
 2.6. Borrado de ramas locales y remotas
 
 
-3. Clase 3
+3. Clase 3 
 3.1. Definiendo el Branching Model
-3.2. Tips para mejorar el trabajo en equipo
+3.2. Tips para mejorar el trabajo en equipo 
 3.3. Análisis de repositorios (git extras)
 3.4. Revirtiendo cambios (reverts)
 3.5. Revirtiendo reverts (cherry-pick)
