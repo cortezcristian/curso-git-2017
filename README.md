@@ -1,5 +1,6 @@
 # curso-git-2017
 
+```
 1. Clase 1
 1.1. Introducción a Git 
 1.2. La historia detrás de git (Linus Torvalds)
@@ -35,3 +36,4 @@
 4.4. Entendiendo el rol de git en proyectos Open Source
 4.5. Analizando repositorios de terceros (blame, effort)
 4.6. Breves notas sobre Git Internals
+```
