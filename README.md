@@ -4,7 +4,7 @@
 1. Clase 1
 1.1. Introducción a Git
 1.2. La historia detrás de git (Linus Torvalds)
-1.3. Comparativas entre Git y otros sistemas de versionado (SVN)
+1.3. Comparativas entre Git y otros sistemas de versionado como SVN.
 1.4. Beneficios de usar git desde la terminal
 1.5. Comandos básicos
 
